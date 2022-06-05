@@ -1,0 +1,24 @@
+class RecursionDemo{
+	int a=5;
+	
+	
+	public static void main (String args[]){
+		RecursionDemo f=new RecursionDemo();
+		f.fact(5);
+		
+		
+	}
+	
+
+	
+	void fact(int b){
+		
+		f.fact();
+	}
+	
+	
+		
+		
+	
+	
+}
